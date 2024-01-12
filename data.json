@@ -1,0 +1,5 @@
+data = {
+    'user_id': [1, 2, 1, 3, 2],
+    'timestamp': [datetime(2022, 1, 1), datetime(2022, 1, 1), datetime(2022, 1, 2), datetime(2022, 1, 2), datetime(2022, 1, 3)],
+    'page_visited': ['home', 'product', 'home', 'product', 'contact']
+}
